@@ -44,12 +44,12 @@ int gcd(int a, int b) {
 int main() {
 
     // nth stair
-    // int n;
-    // cout<<"Enter the number of stairs: ";
-    // cin>>n;
+    int n;
+    cout<<"Enter the number of stairs: ";
+    cin>>n;
 
-    // cout << nthStair(n) << endl;
-    // cout << nthStair_Iterative(n) << endl;
+    cout << nthStair(n) << endl;
+    cout << nthStair_Iterative(n) << endl;
 
 
     // GCD calculation
